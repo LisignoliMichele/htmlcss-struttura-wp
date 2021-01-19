@@ -12,10 +12,13 @@
   clear:both;
 }
 /* /proprietá clearfix */
+/* ridimensionamento pagina completa */
 .home_page{
   width:80%;
   margin: auto;
 }
+/* /ridimensionamento pagina completa */
+
 header{
   height: 100px;
   background-color: #e579e6;
