@@ -4,3 +4,11 @@
   margin: 0;
   padding: 0;
 }
+/* /reset */
+/* proprietá clearfix */
+.clearfix{
+  content:"";
+  display: block;
+  clear:both;
+}
+/* /proprietá clearfix */
