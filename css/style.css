@@ -22,43 +22,36 @@
 header{
   height: 100px;
   background-color: #e579e6;
-  margin:20px 0;
 }
 .banner{
   height: 400px;
   background-color: #e3d67a;
   margin:20px 0;
 }
-.sections_container{
+.leadership_container{
   background-color: #0286fc;
-  margin-bottom: 20px;
 }
-.sections_title{
+.leadership_title{
   height: 70px;
   background-color: #abcfe7;
   margin-bottom: 20px;
 }
-.section_1{
+.col{
   height: 500px;
-  width:20%;
   background-color: #abcfe7;
   float: left;
+  margin-bottom: 2%;
 }
-.section_2{
-  height: 500px;
+.col_1, .col_3{
+  width: 20%;
+}
+.col_2{
   width:56%;
-  background-color: #abcfe7;
-  float: left;
-  margin: 0 2% 2% 2%;
-}
-.section_3{
-  height: 500px;
-  width:20%;
-  background-color: #abcfe7;
-  float: left;
+  margin-right: 2%;
+  margin-left: 2%;
 }
 footer{
   height: 50px;
   background-color: #8801fe;
-  margin-bottom: 20px;
+  margin-top: 15px;
 }
